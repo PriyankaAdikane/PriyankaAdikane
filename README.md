@@ -1,4 +1,4 @@
-### Hi Developers 👋
+### Hi Developers there👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Priyanka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/priyanka-adikane-926930156/)](https://www.linkedin.com/in/priyanka-adikane-926930156/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
